@@ -1,9 +1,11 @@
 package com.assignment.model;
 
-public class Animal {
-	
-	
-	public void walk() {
-		System.out.println("I am walking");
-	}
+public abstract class Animal {
+
+	public abstract void walk();
+
+	public abstract void fly();
+
+	public abstract void sing();
+
 }
