@@ -21,3 +21,8 @@ Chicken class extends Animal implements AnimalSound interface. ChickenTest class
 3 (a)(b)
 
 Rooster has extend Chicken and implements AnimalSound interface. RoosterTest class is using for UNit test.
+
+(c) without inheritance Rooster can model using polymorphism.
+
+Chicken rooster = new Rooster();
+rooster.makeNoise();
