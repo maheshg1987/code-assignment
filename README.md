@@ -26,3 +26,8 @@ Rooster has extend Chicken and implements AnimalSound interface. RoosterTest cla
 
 Chicken rooster = new Rooster();
 rooster.makeNoise();
+
+(B)
+1. (a)(b)(c)
+
+Fish class extend Animal class
