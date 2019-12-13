@@ -17,3 +17,7 @@ Make AnimalSound interface and create makeNoise() abstract method. Duck class ex
 2. (c)(d)
 
 Chicken class extends Animal implements AnimalSound interface. ChickenTest class is using for UNit test.
+
+3 (a)(b)
+
+Rooster has extend Chicken and implements AnimalSound interface. RoosterTest class is using for UNit test.
