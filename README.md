@@ -31,3 +31,11 @@ rooster.makeNoise();
 1. (a)(b)(c)
 
 Fish class extend Animal class
+
+2.(a)
+
+create shark class and make private variables for  specialize. SharksTest class is using for unitTest
+
+(b)(c)
+
+create Clownfish class and make private variables for  specialize. ClownfishTest class is using for unitTest
