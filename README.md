@@ -12,4 +12,8 @@ How to run : import project as maven and run command "mvn clean install"  (test 
 
 2.(a)(b)
 
-Make AnimalSound interface and create makeNoise() abstract method. Duck class extends Bird and implements AnimalSound. DuckTest is using for Unit test.
+Make AnimalSound interface and create makeNoise() abstract method. Duck class extends Bird and implements AnimalSound interface. DuckTest class is using for Unit test.
+
+2. (c)(d)
+
+Chicken class extends Animal implements AnimalSound interface. ChickenTest class is using for UNit test.
